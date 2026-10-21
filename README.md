@@ -47,7 +47,7 @@ I created 18 measures from scratch to show I understand DAX. They include:
 ![Patient Analysis](Screenshots/Patient%20Analysis.jpg)
 
 **3. Hospital Operation:** Visits by Department, Waiting Time by Department, Satisfaction by Department, Branch Performance and monthly volume. Shows operational efficiency.
-![Hospital Operation](Screenshots/Hospital%20Operation.jpg)
+![Hospital Operation](Screenshots/Hospital%20Operations.jpg)
 
 **4. Financial Performance:** Revenue by State, Department and Service, Profit by Department, Monthly Revenue trend and Target achievement. Shows financial health.
 ![Financial Performance](Screenshots/Financial%20Performance.jpg)
