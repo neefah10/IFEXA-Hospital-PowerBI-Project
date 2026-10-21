@@ -41,25 +41,25 @@ I created 18 measures from scratch to show I understand DAX. They include:
 #### Dashboard Structure
 
 **1. Executive Overview:** High-level KPIs, Monthly Visits, Revenue by State, Patients by Department, Revenue vs Target, Outcome Distribution. Slicers: Date, State, Branch, Department, Gender.
-![Executive Overview](Executive%20Overview.png)
+![Executive Overview](Sreenshots/Executive%20Overview.jpg)
 
 **2. Patient Analysis:** Patients by Age Group, Gender, Diagnosis, State, New vs Returning, Patient Outcomes and average visits. This page answers who our patients are and where they come from.
-![Patient Analysis](Patient%20Analysis.png)
+![Patient Analysis](Screenshots/Patient%20Analysis.jpg)
 
 **3. Hospital Operation:** Visits by Department, Waiting Time by Department, Satisfaction by Department, Branch Performance and monthly volume. Shows operational efficiency.
-![Hospital Operation](Hospital%20Operation.png)
+![Hospital Operation](Screenshots/Hospital%20Operation.jpg)
 
 **4. Financial Performance:** Revenue by State, Department and Service, Profit by Department, Monthly Revenue trend and Target achievement. Shows financial health.
-![Financial Performance](Financial%20Performance.png)
+![Financial Performance](Screenshots/Financial%20Performance.jpg)
 
 **5. Patient Experience:** Satisfaction by Department and Branch, Satisfaction vs Waiting Time, Outcome and Satisfaction distribution.
-![Patient Experience](Patient%20Experience.png)
+![Patient Experience](Screenshots/Patient%20Experience.jpg)
 
 **6. Operation Detail:** Drill-through page for deeper view of operations. Allows users to right-click from main pages to see detailed breakdown.
-![Operation Detail](Operation%20Detail.png)
+![Operation Detail](Screenshots/Operation%20Detail.jpg)
 
 **7. Financial Detail:** Drill-through page for deeper view of finance. Shows transaction-level details behind summary.
-![Financial Detail](Financial%20Detail.png)
+![Financial Detail](Screenshots/Financial%20Detail.jpg)
 
 Features used: Slicers, Drill-through, Conditional Formatting, Tooltips, Bookmarks, Page Navigation and Dynamic Titles.
 
