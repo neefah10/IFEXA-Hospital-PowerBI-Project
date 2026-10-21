@@ -41,7 +41,7 @@ I created 18 measures from scratch to show I understand DAX. They include:
 #### Dashboard Structure
 
 **1. Executive Overview:** High-level KPIs, Monthly Visits, Revenue by State, Patients by Department, Revenue vs Target, Outcome Distribution. Slicers: Date, State, Branch, Department, Gender.
-![Executive Overview](Sreenshots/Executive%20Overview.jpg)
+![Executive Overview](Screenshots/Executive%20Overview.jpg)
 
 **2. Patient Analysis:** Patients by Age Group, Gender, Diagnosis, State, New vs Returning, Patient Outcomes and average visits. This page answers who our patients are and where they come from.
 ![Patient Analysis](Screenshots/Patient%20Analysis.jpg)
